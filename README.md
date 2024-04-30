@@ -43,3 +43,4 @@ for teaf , sus in Sus.items() :
     if  sus == 1:
         print(f"{teaf} is the teaf!")
 
+
